@@ -20,11 +20,11 @@
       </div>
     </div>
 
-    </div>
-
     <button class="bg-lime-500 w-full rounded-xl py-3 text-white disabled:bg-slate-300 transition hover:bg-lime-700">
       Order
     </button>
+    </div>
+
   </div>
 </template>
 
