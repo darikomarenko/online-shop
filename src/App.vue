@@ -6,6 +6,8 @@
             <h2 class="text-3xl font-bold mb-8">All sneakers</h2>
 
             <CardList/>
+            <Drawer/>
+            
         </div>
     </div>
 </template>
@@ -13,6 +15,7 @@
 <script setup>
 import Header from './components/Header.vue';
 import CardList from './components/CardList.vue';
+import Drawer from './components/Drawer.vue'
 </script>
 
 <style scoped>
